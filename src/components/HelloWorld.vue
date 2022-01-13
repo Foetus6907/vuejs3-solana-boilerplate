@@ -57,7 +57,7 @@ const connectPhantom = async () => {
 
   <div id="footer-container">
     <a
-        href="https://github.com/Icesofty/nuxt-solana-boilerplate"
+        href="https://github.com/Foetus6907/vuejs3-solana-boilerplate"
         target="_blank"
         class="github-link"
     >
